@@ -11,5 +11,4 @@ this app can also save your current live frequencies and than you can compare be
 
 
  i have no idea how to code. i used gpt4o grok3 and gemini 2.5 to make this.
- i think this is a start of a new generation of applications, of proffesion first, then coders. 
- apps coming from the people.
+turns out there are versions of this online. seems it was easier to create this then search more than page one of google.
